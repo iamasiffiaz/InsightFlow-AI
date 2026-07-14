@@ -270,4 +270,4 @@ If `OPENAI_API_KEY` is missing or the provider call fails, the service returns *
 
 ## License
 
-MIT
+This project is licensed under the [MIT License](LICENSE).
